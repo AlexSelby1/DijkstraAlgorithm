@@ -1,0 +1,1 @@
+Shortest Path from Vertex 0 to Vertex 14: 46
